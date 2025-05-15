@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+Sou a mary, sou aluna do professor bruno 😎
 <!--
 **mariennes/mariennes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
